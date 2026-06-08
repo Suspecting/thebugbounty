@@ -78,7 +78,7 @@ def print_banner(console):
         Panel(
             group,
             title="[bold bright_cyan] thebugbounty [/bold bright_cyan]",
-            subtitle="[bold bright_magenta] made by Suspecting • github.com/dd0927525 [/bold bright_magenta]",
+            subtitle="[bold bright_magenta] made by Suspecting • github.com/Suspecting [/bold bright_magenta]",
             border_style="bright_cyan",
             padding=(1, 2)
         )
