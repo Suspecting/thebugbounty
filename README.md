@@ -372,21 +372,22 @@ Includes test pages for:
 
 ## Screenshots
 
+### Bug Bounty Terminal
+
+![Bug Bounty Markdown Report](screenshots/terminal_start.png)
+
 ### Terminal Banner and Scan Output
 
-![Terminal Banner](screenshots/terminal-banner-scan-output.png)
+![Terminal Banner](screenshots/terminal_reports.png)
 
 ### HTML Report
 
 ![HTML Report](screenshots/html-report.png)
 
-### Bug Bounty Markdown Report
-
-![Bug Bounty Markdown Report](screenshots/bug-bounty-markdown-report.png)
 
 ### Project Structure
 
-![Project Tree](screenshots/project-tree.png)
+![Project Tree](screenshots/tree.png)
 
 ---
 
