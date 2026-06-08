@@ -376,7 +376,7 @@ Includes test pages for:
 
 ![Bug Bounty Markdown Report](screenshots/terminal_start.png)
 
-### Terminal Banner and Scan Output
+### Terminal Scan Output
 
 ![Terminal Banner](screenshots/terminal_reports.png)
 
