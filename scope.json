@@ -1,0 +1,20 @@
+{
+  "project_name": "thebugbounty",
+  "allowed_domains": [
+    "127.0.0.1",
+    "localhost"
+  ],
+  "blocked_paths": [
+    "/logout",
+    "/delete",
+    "/remove",
+    "/payment",
+    "/checkout",
+    "/billing"
+  ],
+  "max_pages": 25,
+  "delay": 1.0,
+  "passive_first": true,
+  "allow_active_tests": true,
+  "notes": "Only scan targets you own, manage, or have written permission to test."
+}

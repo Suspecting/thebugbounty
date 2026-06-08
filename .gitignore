@@ -1,0 +1,30 @@
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated reports
+reports/*
+!reports/README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.save
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
