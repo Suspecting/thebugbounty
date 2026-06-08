@@ -370,6 +370,24 @@ Includes test pages for:
 * Login form analysis
 * Safe page comparison
 
+## Screenshots
+
+### Terminal Banner and Scan Output
+
+![Terminal Banner](screenshots/terminal-banner-scan-output.png)
+
+### HTML Report
+
+![HTML Report](screenshots/html-report.png)
+
+### Bug Bounty Markdown Report
+
+![Bug Bounty Markdown Report](screenshots/bug-bounty-markdown-report.png)
+
+### Project Structure
+
+![Project Tree](screenshots/project-tree.png)
+
 ---
 
 ## Installation
